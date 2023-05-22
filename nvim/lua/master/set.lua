@@ -23,3 +23,4 @@ vim.opt.updatetime = 50
 
 vim.g.mapleader = " "
 
+vim.opt.laststatus = 3

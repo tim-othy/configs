@@ -1,7 +1,7 @@
 require("neo-tree").setup({
   close_if_last_window = false,
   enable_diagnostics = true,
-  enable_git_status = true,
+  enable_git_status = false,
   popup_border_style = "rounded",
   sort_case_insensitive = false,
   filesystem = {
